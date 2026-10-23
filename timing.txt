@@ -1,0 +1,13 @@
+start 2026-10-24 05:45:29 CST
+slug author-blurb-gen
+name 独立作者书介关键词类目生成
+kw expand attempt 1 2026-10-24 05:45:29 CST
+kw expand done 2026-10-24 05:52:25 CST
+serp start 2026-10-24 05:52:25 CST
+serp done ec=0 2026-10-24 06:29:03 CST
+report start 2026-10-24 06:29:03 CST
+report done 2026-10-24 06:46:45 CST
+research elapsed 17 分 33 秒
+pipeline elapsed 1 小时 1 分 16 秒
+report end 2026-10-24 06:46:55 CST 用时 17 分钟
+done author-blurb-gen 2026-10-24 06:46:55 CST
